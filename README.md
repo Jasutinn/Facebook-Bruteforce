@@ -31,7 +31,7 @@ Gaining Access using a Bruteforce Attack!
 * Make location based login( + browser based)
 
 ~~~
-This Python Script is based on my knowledge. Happy Hacking Day!
+This Python Script is based only on my knowledge. Happy Hacking Day!
 ~~~
 
 # (C)
