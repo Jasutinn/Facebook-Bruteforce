@@ -1,3 +1,6 @@
+# Copyright of Justine Dela Torre (Jasutin)
+# Date: 04/05/2022
+
 # Facebook Bruteforce
 ```
 Gaining Access using a Bruteforce Attack! 
@@ -30,8 +33,6 @@ Gaining Access using a Bruteforce Attack!
 * Use 2F Authentication.
 * Make location based login( + browser based)
 
-## Explore More in Hacking and Scripting ...
-### https://github.com/Jasut1n
 ~~~
 This Python Script is based on my knowledge. Happy Hacking Day!
 ~~~
