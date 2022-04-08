@@ -35,7 +35,7 @@ This Python Script is based on my knowledge. Happy Hacking Day!
 ~~~
 
 # Copyright
-```
-# Copyright of Justine Dela Torre (Jasutin)
-## Date: 04/05/2022
-```
+
+* Copyright of Justine Dela Torre (Jasutin)
+* Date: 04/05/2022
+
