@@ -34,7 +34,7 @@ Gaining Access using a Bruteforce Attack!
 This Python Script is based on my knowledge. Happy Hacking Day!
 ~~~
 
-# Copyright
+# (C)
 
 * Copyright of Justine Dela Torre (Jasutin)
 * Date: 04/05/2022
