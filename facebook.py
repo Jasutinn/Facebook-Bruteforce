@@ -9,8 +9,8 @@ if sys.version_info[0] != 3:
     sys.exit()
 
 PASSWORD_FILE = "jasu-wordlists"
-MIN_PASSWORD_LENGTH = 8
-MAX_PASSWORD_LENGTH = 16
+MIN_PASSWORD_LENGTH = 6
+MAX_PASSWORD_LENGTH = 20
 POST_URL = 'https://www.facebook.com/login.php'
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
