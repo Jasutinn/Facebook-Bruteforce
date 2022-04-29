@@ -20,7 +20,7 @@ try:
         import urllib.request, urllib.error, urllib.parse
         browser = mechanize.Browser()
         browser.addheaders = [('User-Agent',headers['User-Agent'])]
-        browser.set_handle_robots(False)
+        browser.set_handle_robots(True)
 except:
         print('\n\tPlease install mechanize.\n')
         sys.exit()
