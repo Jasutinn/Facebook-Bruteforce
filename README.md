@@ -1,7 +1,6 @@
 # Facebook Bruteforce
-```
-Gaining Access using a Bruteforce Attack! 
-```
+
+**Gaining Access using a Bruteforce Attack!** 
 
 ## Install Requirements (on any Linux Distributions)
 ```
@@ -26,9 +25,9 @@ Gaining Access using a Bruteforce Attack!
 ![facebook bruteforce](https://user-images.githubusercontent.com/97047918/161685438-c5ccb9be-581d-4cf1-a9b9-3c1f2d07662a.png)
 
 ## Protection Against Attacker
-* Use Strong Password(which contains standard password chars + longest as possible)
+* Use Strong Password (Which contains standard password chars + longest as possible)
 * Use 2F Authentication.
-* Make location based login( + browser based)
+* Make location based login ( + Browser based)
 
 ~~~
 This Python Script is based only on my knowledge. Happy Hacking Day!
