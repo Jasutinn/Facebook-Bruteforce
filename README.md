@@ -1,6 +1,8 @@
 <h1 align="center">Facebook Bruteforce</h1>
 
-##### Gaining access using a bruteforce attack!
+<div align="center">
+  <strong>Gaining access using a bruteforce attack!</strong>
+</div>
 
 ## Install Requirements (on any Linux Distributions)
 ```
