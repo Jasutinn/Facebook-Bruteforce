@@ -6,16 +6,15 @@
 
 ## Install Requirements (on any Linux Distributions)
 ```
->> sudo apt install git python3 python3-pip python python-pip
+>> sudo apt install git python3 python3-pip python python-is-python3
 ```
 
 ## Run commands one by one
 ```
->> git clone https://github.com/jasut1n/facebook-bruteforce
->> cd facebook-bruteForce
->> python3 -m pip install requests bs4
->> python3 -m pip install mechanize
->> python3 facebook.py
+>> git clone https://github.com/jasut1n/Facebook-Bruteforce
+>> cd Facebook-BruteForce
+>> python3 -m pip install -r requirements.txt
+>> python3 facebook.py / facebook2.py
 ```
 
 ## Screenshots
