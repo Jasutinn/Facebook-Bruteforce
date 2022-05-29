@@ -1,0 +1,5 @@
+cryptography
+Fernet
+pwn
+requests
+bs4
