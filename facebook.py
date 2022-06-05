@@ -11,7 +11,7 @@ if sys.version_info[0] != 3:
 PASSWORD_FILE = "jasu-wordlists"
 MIN_PASSWORD_LENGTH = 6
 MAX_PASSWORD_LENGTH = 20
-POST_URL = 'https://www.facebook.com/login.php'
+POST_URL = 'https://www.facebook.com/login.php?login_attempt=1'
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
     'User-Agent': 'Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)',
